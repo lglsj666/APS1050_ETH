@@ -1,4 +1,4 @@
-# APS1050 · Ethereum Pet Shop (Extended)
+# APS1050 · Ethereum Pet Shop
 
 A production-like **full-stack dApp** that extends Truffle’s Pet Shop with **fee-gated pet registration (with photos), on-chain likes/voting, owner-only donation withdraw, per-user adoption history, and paid returns** — built and verified locally with **Ganache + MetaMask**.
 
